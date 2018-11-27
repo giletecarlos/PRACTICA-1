@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>La meva primera pràctica</title>
+		<meta name="author" content="Carlos Gilete Bedia">
+		<meta name="description" content="Primera pràctica de SMX2">
+		<meta name="keywords" content="	SMX Informàtica Ordinadors HTML Pàgina Web">
+		<meta name="charset="UTF-8">
+		<link rel="shortcut icon" a href="https://ih1.redbubble.net/image.264289686.3766/flat,550x550,075,f.u1.jpg">
+	</head>
+	<body>
+		<header>
+			<h1 align="left">Títol per la meva primera pràctica de M8-UF5</h1>
+			<h2 align="center">Els títols van definits en una secció de la capçalera</h2>
+			<h3 align="right">I aquests tres títols estàn aliniats diferent</h3>
+		</header>
+		<hr>
+		<!--Això es un text que només ho veo el que crea la pàgina Web i pot servir per anotarte alguna cosa, però  no afecta a la pàgina web-->
+		<nav>
+			<p>Això s'ha de definir dins d'una secció de navegació</p>
+			<p>i com es pot comprobar hem separat les seccions amb un element hr</p>
+		</nav>
+		<hr>
+		<aside>
+			<p><i><b>Secció de columna en cursiva i negreta</b></i></p>
+		</aside>
+		<hr>
+		<section>
+			<code>Això esta dins d'una secció principal (text codificat)</code>
+		</section>
+		<hr>
+		<article>
+			<p>Secció de tipus article</p>
+			<p>Primer pàrraf</p>
+			<p align="center">Segón pàrraf (centrat)</p>
+			<p>Tercer pàrraf separat per un element</p>
+		<hr>
+		<article>
+		<footer>
+				<center>
+					<p align="center">Aquesta secció ha de ser un peu de pàgina</p>
+					<a href="http://educem.net/moodle/login/index.php">Això és un enllaç al Web de l'Educem</a>
+				</center>
+		</footer>
+	</body>
+</html>
+
+		
